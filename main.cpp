@@ -78,4 +78,6 @@ int main()
         else
             cout << distances[i] << " ";
     }
+
+    return 0;
 }
